@@ -1,23 +1,21 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Portfolio Project
 
-# Portfolio
-
-> This is a project on figma portifoilo template #2 made with html for the content and css for the styling and Bootstarp as the framework. 
-
+> This is a project on figma portifoilo template #2 made with html for the content and css for the styling and Bootstarp as the framework.
 
 ## Built With
 
 - Major languages
-    HTML and CSS
+  HTML and CSS
+
 - Frameworks
-    Bootstrap
+  Bootstrap
+
 - Technologies used
-    Git and GitHub
+  Git and GitHub
 
 ## Authors
 
 👤 **Promise Okechukwu**
-
 
 - GitHub: [@promzzykoncepts](https://github.com/promzzykoncepts)
 - Twitter: [@promzzy](https://twitter.com/prommzy)
@@ -31,8 +29,6 @@
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
